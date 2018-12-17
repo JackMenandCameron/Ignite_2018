@@ -30,7 +30,7 @@ To use play against our Connect4 AI, go to the Alpha_Beta_Connect4 folder and op
 ## Authors
 
 * **Otis Smith** - *Worked on TensorFlow portion and writing README* - [themroats](https://github.com/themroats)
-* **Jack Cameron** - *Worked on TensorFlow portion*
+* **Jack Cameron** - *Worked on TensorFlow portion* - [JackMenandCameron](https://github.com/JackMenandCameron)
 * **Will Aracri** - *Worked on Connect 4 portion, including writing estimator function for AI*
 * **Kyle Carskadden** - *Worked on Connect 4 portion, including writing code for alpha beta AI*
 * **Trey Natili** - *Worked on Connect 4 portion, including front end*
